@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi👋 My name is Aditya
 
-<!--
-**adityaputra42/adityaputra42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mobile Developer
 
-Here are some ideas to get you started:
+I'm a mobile developer, I like to learn programming, I started to learn programming with Java, then I also learned to design sites with HTML, CSS and PHP, and now as I work on a special Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Indonesia
+- 🖥️ See my portfolio at <a href="https://www.instagram.com/aditya__putra1">Instagram</a>
+- ✉️ You can contact me at aditiyaputra42@gmail.com
+- 🧠 I'm learning Flutter
+- 🚀 I'm currently working on Flutter
+
+
+
+
+
