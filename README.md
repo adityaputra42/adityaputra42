@@ -2,7 +2,7 @@
 
 ## Mobile Developer
 
-I'm a mobile developer, I like to learn programming, I started to learn programming with Java, then I also learned to design sites with HTML, CSS and PHP, and now as I work on a special Flutter
+I'm a mobile developer, I love to learn programming, I started to learn programming with Java, then I also learned to design sites with HTML, CSS and PHP, and now as I work on a special Flutter
 
 - 🌍 I'm based in Indonesia
 - 🖥️ See my portfolio at <a href="https://www.instagram.com/aditya__putra1">Instagram</a>
