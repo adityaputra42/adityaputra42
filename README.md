@@ -5,7 +5,7 @@ I'm a dedicated mobile developer who is enthusiastic about crafting elegant and 
 
     Name: Aditya Putra Pratama
     Location: Semarang, Indonesia
-    LinkedIn: https://www.linkedin.com/in/aditya-putra-pratama-3412b61b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCXJ6wddbTUCDiVXf91WVcQ%3D%3D
+    LinkedIn: linkedin.com/in/aditya-putra-pratama
 
 
 Let's Connect!
